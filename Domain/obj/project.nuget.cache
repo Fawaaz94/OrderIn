@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "14HvLEAAdYMEDcBPICu8y5Wg0zRpejKyMgGBm1/EyQtOVpPea0XWxseoZ5hZDTVypu7ZRy5GjMztxGx7m74DEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\fadassie\\Documents\\OrderInGithub\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\fadassie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\fadassie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

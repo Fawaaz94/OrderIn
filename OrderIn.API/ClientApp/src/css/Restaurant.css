@@ -1,0 +1,36 @@
+.restaurant{
+    padding: 10px;
+}
+
+.image{
+    width: 35px;
+    height: 35px;
+    /* padding-bottom: 5px; */
+}
+
+.title{
+    color: gray;
+    font-size: 14px;
+    padding-left: 5px;
+}
+
+input[type=checkbox]{
+    display: inline;
+    width: 5px;
+    height: 5px;
+    padding-left: 50px;
+}
+
+.menuItems{
+    display: inline;
+    font-size: 14px;
+    padding-left: 10px;
+}
+
+.button {
+    border-radius: 10%;
+    margin-bottom: 5%;
+    color: black;
+    background: greenyellow;
+    user-select: none;
+}
